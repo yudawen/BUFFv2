@@ -1,2 +1,6 @@
 # BUFFv2
-The public dataset of refined BUFF.
+The refined BUFF dataset.
+
+The data is coming soon!
+
+
